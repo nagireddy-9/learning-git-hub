@@ -31,4 +31,4 @@ git pull --allow-unrelated-histories
 
 ###REBASE
 
-1) ![preview](./images/Rebase)
+1) ![preview](E:/DEVOPS/GIT-HUB/images/Rebase.png)
