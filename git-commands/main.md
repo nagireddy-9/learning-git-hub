@@ -5,7 +5,7 @@ we shoud configure the git in local repo for that
 ```
 git init
 ```
-2) configure that directory with git hub username and password i.e
+2) configure the directory with git hub username and password i.e
 ```
 git config --global user.name <user-name>
      ex:  git config --global user.name naigreddy-9 
