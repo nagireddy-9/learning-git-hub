@@ -1,0 +1,11 @@
+create a git hub account with user name and passwd and make a note of username and passswd.
+we shoud configure the git in local repo for that 
+1) create a directory in our local machine and intiate git in this directory
+  ==>git init
+2) configure that directory with git hub username and password i.e
+  ==> git config --global user.name <user-name>
+     ex:  git config --global user.name naigreddy-9
+  ==> git config --global user.email <our-email> 
+     ex: git config --global user.email <somthing@gmail.com>
+4) add local repo to remote repo.   
+
