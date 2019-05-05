@@ -25,5 +25,9 @@ git remote add origin(anyname) master <url-of-remote-repo>
 and play with git it will ask username and passwd in papup window.
     b) if any un related histories than we should user
 ```     
-git pull --allow-unrelated-histories	 
+git pull --allow-unrelated-histories	
+
 ```
+
+###REBASE
+![preview](./Rebase.png)
