@@ -1,5 +1,6 @@
-##git commands
-Create a git hub account with user name and passwd and make a note of username and passswd.
+###git commands
+
+a) Create a git hub account with user name and passwd and make a note of username and passswd.
 we shoud configure the git in local repo for that 
 1) Create a directory in our local machine and intiate git in this directory
 ```
