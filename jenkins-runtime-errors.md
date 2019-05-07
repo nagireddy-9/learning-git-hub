@@ -7,7 +7,7 @@
  ```
  df -h
  ```
-1) ![preview](/images/Rebase.png)
+1) ![preview](/images/space1.PNG)
 *  Here root directory 100% fulled so.
 * Add the space to that directory (OR)
 * check whcich file is accupy more space and remove it or move to some free space locations.
