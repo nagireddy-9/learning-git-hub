@@ -1,6 +1,7 @@
 ##JENKINS ISSUES
 * No space on device?
   * in this error i was not able to any activity on front end page of jenkins.
+  ![preview](/images/issue.PNG)
     
 ##SOLUTIONS::
  * Check the space from backend.
