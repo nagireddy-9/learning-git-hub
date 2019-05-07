@@ -11,3 +11,4 @@
 *  Here root directory 100% fulled so.
 * Add the space to that directory (OR)
 * check whcich file is accupy more space and remove it or move to some free space locations.
+![preview](/images/file.png)
