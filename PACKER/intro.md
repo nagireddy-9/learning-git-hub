@@ -20,7 +20,7 @@
   "only": ["virtualbox-iso"]
   ```
   [here]https://www.packer.io/docs/templates/provisioners.html
-* we can't create more than one builders in a same file.
+* we can't create more than one builders for same image in same cloud in a same file.
 ex::
 ```
  "builder":[
