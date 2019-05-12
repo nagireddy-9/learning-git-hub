@@ -61,7 +61,14 @@ ex::
  ]
 ```
  * in this we will get error is builder 2: builder with name 'amazon-ebs' already exists but i was't try thard one which was azure account.
-  
+
+ ## split Function Format Reference 
+ ``` 
+ build_name = foo-bar-provider
+
+{{split build_name "-" 0}} = foo
+{{split "fixed-string" "-" 1}} = string
+ ``` 
 
 
 
