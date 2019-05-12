@@ -1,0 +1,30 @@
+{
+    "variables":{
+        "my_access_key": "",
+        "my_secret_key": ""
+    },
+    "builders":
+    [ {
+        "type": "amazon-ebs",
+        "access_key": "{{user `my_access_key`}}",
+        "secret_key":"{{user  `my_secret_key`}}",
+        "region":"us-west-2",
+        "ami_name":"mybuild-{{isotime | clean_ami_name}}",
+        "source_ami":"ami-005bdb005fb00e791",
+        "ssh_username": "ubuntu",
+        "instance_type":"t2.micro"
+
+    }
+    ],
+    "provisioners":[{
+        "type":"shell",
+        "inline":[
+            "ls -la /home/ubuntu",
+            "sudo apt-get update -y ",
+            "sudo apt-get install git -y",
+            "sudo apt-get install tree -y"
+        ]
+        
+        
+    }]
+}
