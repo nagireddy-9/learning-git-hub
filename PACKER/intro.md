@@ -15,7 +15,11 @@
   * OpenStack(private cloud) provisoner ......
 * ##WE NEED IAM CREDIANTIOALS IN AWS
 * FUNCTIONS & ENVIRONMENTAL VARIABLES
-* 
+* PROVISON TO BE RUN ON SPECIFIC BUILDERS USING BELLOW STATEMENT
+  ```
+  "only": ["virtualbox-iso"]
+  ```
+  [here]https://www.packer.io/docs/templates/provisioners.html
 * we can't create more than one builders in a same file.
 ex::
 ```
