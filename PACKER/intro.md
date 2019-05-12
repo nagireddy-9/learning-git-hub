@@ -15,6 +15,9 @@
   * OpenStack(private cloud) provisoner ......
 * ##WE NEED IAM CREDIANTIOALS IN AWS
 * FUNCTIONS & ENVIRONMENTAL VARIABLES
+ ```
+ "mybuild-{{isotime | clean_ami_name}}"
+ ```
 * PROVISON TO BE RUN ON SPECIFIC BUILDERS USING BELLOW STATEMENT
   ```
   "only": ["virtualbox-iso"]
