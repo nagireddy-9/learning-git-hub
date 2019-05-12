@@ -14,7 +14,7 @@
   * CHEF provisoner
   * OpenStack(private cloud) provisoner ......
 * ##WE NEED IAM CREDIANTIOALS IN AWS
-## FUNCTIONS & ENVIRONMENTAL VARIABLES
+* FUNCTIONS & ENVIRONMENTAL VARIABLES
 * 
 * we can't create more than one builders in a same file.
 ex::
