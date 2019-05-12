@@ -5,7 +5,7 @@
 * BUILDERS:
   * builders for aws cloud
   * builders for azure cloud
-  [NOTE] we can create a reusable imsage for any cloud and any physical machines(i.e vmware). see in packer doc.
+  [NOTE] we can create a reusable imsage for any cloud and any virtual machines(i.e vmware). see in packer doc.
 * PROVISIONING:
   * AWS provisoner
   * AZURE provisoner
