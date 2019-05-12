@@ -1,4 +1,4 @@
-##CREATETING A REUSABLE IMAGE IN ANY CLOUD
+## CREATETING A REUSABLE IMAGE IN ANY CLOUD
 * VARIBLES
   * user variable
   * environmental varible
@@ -16,7 +16,7 @@
 * ##WE NEED IAM CREDIANTIOALS IN AWS
 ## FUNCTIONS & ENVIRONMENTAL VARIABLES
 * 
-*we can't create a more than one reusable from builder in one file if use it says
+* we can't create a more than one reusable from builder in one file if use it says
 ex::
 ```
  "builder":[
