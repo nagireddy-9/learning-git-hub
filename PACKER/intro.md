@@ -16,7 +16,7 @@
 * ##WE NEED IAM CREDIANTIOALS IN AWS
 ## FUNCTIONS & ENVIRONMENTAL VARIABLES
 * 
-* we can't create a more than one reusable from builder in one file if use it says
+* we can't create more than one builders in a same file.
 ex::
 ```
  "builder":[
