@@ -14,6 +14,7 @@
   * CHEF provisoner
   * OpenStack(private cloud) provisoner ......
 * ##WE NEED IAM CREDIANTIOALS IN AWS
+* what is override?
 * FUNCTIONS & ENVIRONMENTAL VARIABLES
  ```
  "mybuild-{{isotime | clean_ami_name}}"
