@@ -12,4 +12,4 @@
 # ON JENKINS MASTER 
   * install the configure over ssh plugin
   * go to system config and add the ansible node with ssh      creadiationl ![preview](/images/ssh-server.PNG)  
-* select mvn project and select vcs and select post-build steps in that select copy the ssh and give the remote location ![Preview](/images/post-ssh.PNG)  
+* select mvn project and select vcs and select post-build steps in that select copy the ssh and give the remote location ![Preview](/images/post-server.PNG)  
